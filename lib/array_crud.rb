@@ -31,9 +31,10 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  array.pop()
+ sumaya =  array.pop()
+ p sumaya
 end
 
 def update_element_from_index(array, index_number, element)
-array.[4] = "totally"
+array[4] = "totally"
 end
